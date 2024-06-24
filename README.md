@@ -22,4 +22,6 @@ Welcome to the To-Do List Application! This project was developed as part of the
 # To clone my Github 
 ```
     git clone https://github.com/Pritam-Raj/Brainwave_Matrix_Intern
+    cd TODO-List
+    code .
 ```
