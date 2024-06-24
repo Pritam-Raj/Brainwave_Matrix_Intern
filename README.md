@@ -8,9 +8,9 @@ Welcome to the To-Do List Application! This project was developed as part of the
 - Responsive Design: The application is responsive and works on various devices.
 # Technologies Used
 - Frontend:
--- HTML5
--- CSS3
--- JavaScript (ES6+)
+    - HTML5
+    - CSS3
+    - JavaScript (ES6+)
 
 # Version Control:
 - Git
@@ -18,4 +18,5 @@ Welcome to the To-Do List Application! This project was developed as part of the
 
 # To clone my Github 
 ```
-    git clone 
+    git clone https://github.com/Pritam-Raj/Brainwave_Matrix_Intern
+```
